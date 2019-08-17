@@ -1,0 +1,8 @@
+npm install
+npm start
+
+--rodar cliente
+node client.js
+
+Para editar conteudo, mudar o tratamento
+
